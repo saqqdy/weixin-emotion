@@ -1,0 +1,26 @@
+{
+  "name": "weixin-emotion",
+  "version": "1.0.0",
+  "description": "微信表情库json列表",
+  "main": "index.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqqdy/weixin-emotion.git"
+  },
+  "keywords": [
+    "weixin-emotion",
+    "saqqdy"
+  ],
+  "author": "saqqdy@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqqdy/weixin-emotion/issues"
+  },
+  "homepage": "https://github.com/saqqdy/weixin-emotion#readme"
+}
